@@ -6,7 +6,8 @@
 ###
 
 <div align="center">
-  <img height=200px src="https://share.creavite.co/66aa79291f643a49a2111652.gif"  />
+  <img height=200px src="https://share.creavite.co/66aa810b1f643a49a2111662.png
+  />
 </div>
 
 ###
