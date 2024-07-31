@@ -1,5 +1,5 @@
 
-![MasterHead](https://share.creavite.co/66aa810b1f643a49a2111662.png
+![MasterHead](https://share.creavite.co/66aa79291f643a49a2111652.gif
 )
 
 <h1 align="center">Hi 👋, I'm Erol As</h1>
