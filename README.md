@@ -52,7 +52,8 @@
 ###
 
 
-![MasterHead](https://share.creavite.co/66aa79291f643a49a2111652.gif)
+![MasterHead](https://share.creavite.co/66aa810b1f643a49a2111662.png
+)
 
 <h1 align="center">Hi 👋, I'm Erol As</h1>
 <h3 align="center">A passionate front-end developer from Türkiye</h3>
