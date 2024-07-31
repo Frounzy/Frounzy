@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="[https://i.imgflip.com/65efzo.gif](https://hizliresim.com/rra2qfy)"  />
+  <img height="200" src="https://i.hizliresim.com/rra2qfy.gif"  />
 </div>
 
 ###
