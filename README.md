@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Frounzy/count.svg?"  />
-</div>
 
 ###
 
@@ -9,7 +6,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.hizliresim.com/rra2qfy.gif"  />
+  <img src="https://i.hizliresim.com/rra2qfy.gif"  />
 </div>
 
 ###
